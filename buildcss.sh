@@ -12,4 +12,4 @@ do
 	name=$(basename --suffix=.styl $style)
 
 	stylus $style -c -m -o $css_dir/$name.min.css
-don
+done
