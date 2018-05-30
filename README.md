@@ -1,0 +1,2 @@
+ruTorrent插件
+autodl-rutorrent是ruTorrent监控和配置autodl-irssi的插件。
